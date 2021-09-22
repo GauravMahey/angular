@@ -1,0 +1,223 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.main
+{
+    background-image: url(../../assets/bg.jpg);
+    height: 800px;
+    width: 100%;
+    
+}
+
+.row1
+{
+    
+    font-family: sans-serif;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    
+}
+
+.row2
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+.row3
+{
+    background-color: aliceblue;
+    height: 100px;
+    width: 100%;
+    
+    
+}
+
+.col2
+{
+    font-size: large;
+    float: left;
+    padding: 50px;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+/*.col2
+{
+    float: left;
+    padding: 50px;
+     width: 25%;
+     text-align: center;
+     font-family: sans-serif;
+}
+.col3
+{
+    float: left;
+    padding: 50px;
+    width: 25%;
+     text-align: center;
+    font-family: sans-serif;
+    
+}
+.col4
+{
+    float: left;
+    padding: 50px;
+     width: 25%;
+     text-align: center;
+    font-family: sans-serif;
+}*/
+
+.row4
+{
+    margin: 10px;
+    padding-left: 350px;
+    width: 90%;
+}
+
+.col5
+{
+    padding-left:  80px;
+    padding-right: 80px;
+    height:350px;
+    width: 68%;
+    background-color: aliceblue;
+    
+            
+}
+
+.img1
+{
+    width: 80%;
+    height: 180px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.row41
+{
+    width: 80%;
+    color: black;
+    font-size: 15px;
+    padding: 20px;
+    font-family: serif;
+    text-align: center;
+}
+
+.row42
+{
+    color: black;
+    width: 80%;
+    
+    font-family: serif;
+    text-align: center;
+}
+.row43
+{
+    padding: 10px;
+    color: black;
+    width: 80%;
+    
+    font-family: serif;
+    text-align: center;
+}
+
+.row5 
+{
+    margin: 10px;
+    padding-left: 350px;
+}
+
+.img2
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 50%;
+    
+}
+
+.col6
+{
+    padding-left:  80px;
+    padding-right: 80px;
+    height:500px;
+    width: 60%;
+    background-color: aliceblue;
+    
+            
+}
+
+.row51
+{
+    padding: 10px;
+    color: black;
+    font-family: serif;
+    text-align: center;
+    width: 80%;
+}
+
+img.img2
+{
+    float: left;
+    
+}
+
+.row6
+{
+    margin: 10px;
+    padding-left: 350px;
+}
+
+.col7
+{
+    padding: 10px;
+    padding-left:  80px;
+    padding-right: 80px;
+    height:210px;
+    width: 60%;
+    background-color: aliceblue;
+    text-align: center;
+            
+}
+
+.row61
+{
+    padding: 10px;
+    color: black;
+    font-family: serif;
+    text-align: center;
+    width: 100%;
+}
+
+.row7
+{
+    
+    padding: 20px;
+    height: 100p;
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+
+}
+.table
+{
+    text-align: center;
+}
+iframe
+{
+    margin-top: 20px;
+    height: 300px;
+    width: 400px;
+}
